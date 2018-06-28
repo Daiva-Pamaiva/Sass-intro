@@ -1,0 +1,21 @@
+.tekstas {
+  width: 55%;
+  height: 25%; }
+
+.cards {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 80%; }
+
+.cards1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%; }
+
+.block {
+  width: 20%;
+  height: 25%;
+  background-color: grey;
+  margin: 10px 10px 10px 10px; }
